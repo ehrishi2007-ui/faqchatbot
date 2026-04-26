@@ -193,4 +193,4 @@ numpy
 
 # 📄 License
 
-This project was built as part of a student internship task at CodeAlpha.
+This project was built as part of a student internship task at [CodeAlpha](https://www.codealpha.tech).
