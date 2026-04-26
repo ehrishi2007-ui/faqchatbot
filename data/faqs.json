@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any item within 30 days of purchase for a full refund."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Log in to your account and visit the 'My Orders' section to track your shipment."
+  },
+  {
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, we offer free shipping on all orders above $50."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Reach us at support@example.com or call 1-800-000-0000."
+  },
+  {
+    "question": "Can I change my order after placing it?",
+    "answer": "Orders can be modified within 1 hour of placement. Contact support immediately."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, UPI, and PayPal."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 5–7 business days. Express delivery is 1–2 business days."
+  }
+]
