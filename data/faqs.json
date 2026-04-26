@@ -26,5 +26,57 @@
   {
     "question": "How long does delivery take?",
     "answer": "Standard delivery takes 5 to 7 business days. Express delivery is 1 to 2 business days."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for selected locations."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Yes, orders can be canceled before they are shipped from our warehouse."
+  },
+  {
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Please contact customer support within 48 hours with photos of the damaged item."
+  },
+  {
+    "question": "Do you provide international shipping?",
+    "answer": "Yes, we ship internationally to selected countries with additional shipping charges."
+  },
+  {
+    "question": "How do I apply a discount coupon?",
+    "answer": "You can enter your coupon code during checkout in the promo code section."
+  },
+  {
+    "question": "Can I get an invoice for my purchase?",
+    "answer": "Yes, invoices are available in the 'My Orders' section after successful payment."
+  },
+  {
+    "question": "What if my payment fails?",
+    "answer": "If payment fails, please retry after checking your payment details or use another payment method."
+  },
+  {
+    "question": "How do I reset my account password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions sent to your email."
+  },
+  {
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we use secure encryption and follow privacy standards to protect your personal information."
+  },
+  {
+    "question": "Can I save multiple delivery addresses?",
+    "answer": "Yes, you can add and manage multiple delivery addresses in your account settings."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click on the Sign Up button, enter your details, and verify your email to create an account."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, gift wrapping is available for selected products during checkout."
+  },
+  {
+    "question": "How can I check product availability?",
+    "answer": "Product availability is shown on the product page. Out-of-stock items will be marked clearly."
   }
 ]

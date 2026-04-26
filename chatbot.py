@@ -1,5 +1,3 @@
-# chatbot.py (SECURE VERSION)
-
 import json
 import os
 import nltk
@@ -11,7 +9,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-# ---------------- SAFE NLTK DOWNLOAD ----------------
 nltk.download("stopwords", quiet=True)
 nltk.download("punkt", quiet=True)
 nltk.download("punkt_tab", quiet=True)
@@ -20,7 +17,6 @@ THRESHOLD = 0.15
 MAX_FAQ_PATH_BASE = os.path.abspath("data")
 
 
-# ---------------- SAFE JSON LOADER ----------------
 def load_faqs(path="data/faqs.json"):
     try:
         full_path = os.path.abspath(path)
@@ -64,7 +60,6 @@ def load_faqs(path="data/faqs.json"):
         ]
 
 
-# ---------------- TEXT PREPROCESS ----------------
 def preprocess(text: str) -> str:
     try:
         stop_words = set(stopwords.words("english"))
@@ -81,7 +76,6 @@ def preprocess(text: str) -> str:
         return ""
 
 
-# ---------------- CHATBOT CLASS ----------------
 class FAQChatbot:
     def __init__(self):
         self.faqs = load_faqs()
